@@ -1,0 +1,14 @@
+.page_header{
+    width: 100%;
+    font-size: 25px;
+
+}
+div{
+    font-size: 18px;
+    color: black;
+}
+#song_name{
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+}
